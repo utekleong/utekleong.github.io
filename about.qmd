@@ -1,0 +1,45 @@
+---
+title: "Leong Utek"
+about:
+  template: marquee
+  image: ./images/aboutdp.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/utekleong
+    - icon: github
+      text: github
+      href: https://github.com/utekleong
+    - icon: mastodon
+      text: mastodon
+      href: https://fediscience.org/@utek
+toc: false
+---
+
+I am a second-year Psychology PhD student at the National University of Singapore, advised by [Associate Professor Ryan Hong](https://profile.nus.edu.sg/fass/psyhysr/).
+
+Broadly, I am interested in the study of how personality and individual differences influence physical and mental health outcomes. For my PhD research, I am currently investigating the relationships between cognitive vulnerabilities and internalizing psychopathology using psychopathological networks.
+
+During my free time, I enjoy tending to my tropical houseplants, listening to melodic hardcore, and taking walks with my beautiful fiancée.
+
+## Education
+
+**PhD in Psychology** \| National University of Singapore\
+Aug 2021 - Present
+
+**B.Soc.Sc in Psychology with Honours** \| Nanyang Technological University\
+Aug 2017 - May 2021
+
+## Research Experience
+
+**Research Assistant** \| [A/Prof Bibhas Chakraborty's Research Lab](https://blog.nus.edu.sg/bibhas/), Duke-NUS Medical School\
+Sep 2021 - Present
+
+**Associate Clinical Research Coordinator** \| Department of Psychology, Singapore General Hospital\
+Jan 2021 - Jun 2021
+
+**Clinical Research Intern** \| Department of Psychology, Singapore General Hospital\
+Mar 2019 - Dec 2020
+
+**Student Researcher** \| NTU Touch Lab, Nanyang Technological University (now the [Kobe Multisensory Lab](https://touchlab.mystrikingly.com/))\
+Aug 2018 - Jun 2019

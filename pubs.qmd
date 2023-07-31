@@ -1,0 +1,17 @@
+---
+title: "Research"
+toc: true
+---
+
+My Google Scholar profile can be found [here](https://scholar.google.com.sg/citations?user=P9Tl79kAAAAJ&hl=en).
+
+In the spirit of open science, where available, each publication's corresponding OSF project page will be linked below. My OSF page can be found [here](https://osf.io/9y8xh/).
+
+## Journal Articles
+
+**Leong, U.**, & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. *JMIR MHealth and UHealth*, *11*, e44685. <https://doi.org/10.2196/44685> [\[OSF\]](https://osf.io/xdnr8/)
+
+## Conference Presentations
+Presenting authors are underlined.
+
+<u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion [Conference presentation]. The Mind & Life 2020 Contemplative Research Conference, Singapore.

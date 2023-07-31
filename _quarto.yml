@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: about.qmd
+        text: Home
+      - href: pubs.qmd
+        text: Research
+      - href: cv.html
+        text: Curriculum Vitae
+        target: _blank
+        
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
