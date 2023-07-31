@@ -4,7 +4,7 @@ project:
 website:
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: Home
       - href: pubs.qmd
         text: Research
