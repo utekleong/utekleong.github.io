@@ -11,12 +11,10 @@ website:
         text: About Me
       - href: pubs.qmd
         text: Research
-      - href: cv.html
-        text: Curriculum Vitae
-        target: _blank
+      # - href: cv.html
+      #   text: Curriculum Vitae
+      #   target: _blank
         
-        
-
 format:
   html:
     theme: cosmo
