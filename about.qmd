@@ -16,6 +16,7 @@ Aug 2017 - May 2021
 -   Treatment adherence
 -   Network approach to mental disorders
 -   Network psychometrics
+-   Developing and evaluating mHealth treatments
 -   Open science
 
 ## Research Experience

@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: https://utekleong.github.io/
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +12,8 @@ website:
         text: About Me
       - href: pubs.qmd
         text: Research
+      - href: blog.qmd
+        text: Blog        
       # - href: cv.html
       #   text: Curriculum Vitae
       #   target: _blank

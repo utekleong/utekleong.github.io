@@ -10,16 +10,17 @@ about:
     - icon: twitter
       text: twitter
       href: https://twitter.com/utekleong
+    - icon: cloud
+      text: bluesky
+      href: https://bsky.app/profile/utekleong.bsky.social
     - icon: github
       text: github
       href: https://github.com/utekleong
-    - icon: mastodon
-      text: mastodon
-      href: https://fediscience.org/@utek
+
 toc: false
 ---
 
-I am a Psychology PhD candidate at the National University of Singapore, advised by [Associate Professor Ryan Hong](https://profile.nus.edu.sg/fass/psyhysr/).
+I am a psychology PhD candidate at the National University of Singapore, advised by [Associate Professor Ryan Hong](https://profile.nus.edu.sg/fass/psyhysr/).
 
 Broadly, I am interested in the study of how personality and individual differences influence physical and mental health outcomes. For my PhD research, I am currently investigating the relationships between cognitive vulnerabilities and internalizing psychopathology using psychopathological networks. During my free time, I enjoy tending to my tropical houseplants, listening to melodic hardcore, and taking walks with my beautiful fiancée.
 
