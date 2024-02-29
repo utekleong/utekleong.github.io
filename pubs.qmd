@@ -11,7 +11,14 @@ In the spirit of open science, where available, each publication's corresponding
 
 **Leong, U.**, & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. *JMIR MHealth and UHealth*, *11*, e44685. <https://doi.org/10.2196/44685> [\[OSF\]](https://osf.io/xdnr8/)
 
+## Preprints
+
+**Leong, U.**, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *PsyArXiv*. <https://doi.org/10.31234/osf.io/cwd46>
+[\[OSF\]](https://osf.io/z5t8d/)
+
+
 ## Conference Presentations
+
 Presenting authors are underlined.
 
-<u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion [Conference presentation]. The Mind & Life 2020 Contemplative Research Conference, Singapore.
+<u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion \[Conference presentation\]. The Mind & Life 2020 Contemplative Research Conference, Singapore.
