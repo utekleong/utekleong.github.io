@@ -3,9 +3,7 @@ title: "Research"
 toc: true
 ---
 
-My Google Scholar profile can be found [here](https://scholar.google.com.sg/citations?user=P9Tl79kAAAAJ&hl=en).
-
-In the spirit of open science, where available, each publication's corresponding OSF project page will be linked below. My OSF page can be found [here](https://osf.io/9y8xh/).
+My Google Scholar profile can be found [here](https://scholar.google.com.sg/citations?user=P9Tl79kAAAAJ&hl=en). In the spirit of open science, where available, each publication's corresponding OSF project page will be linked below.
 
 ## Journal Articles
 
@@ -17,8 +15,8 @@ In the spirit of open science, where available, each publication's corresponding
 
 ## Conference Presentations
 
-Presenting authors are underlined.
+Presenting authors are underlined. Conference presentation materials can be found [here](https://osf.io/rju35/).
 
-<u>**Leong, U.**</u>, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis \[Poster Presentation\]. 33rd International Congress of Psychology, Prague, Czech Republic.
+<u>**Leong, U.**</u>, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024, July 21-26). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis \[Poster Presentation\]. 33rd International Congress of Psychology, Prague, Czech Republic.
 
-<u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion \[Conference presentation\]. The Mind & Life 2020 Contemplative Research Conference, Singapore.
+<u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020, November 5-8). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion \[Conference presentation\]. The Mind & Life 2020 Contemplative Research Conference, Singapore.
