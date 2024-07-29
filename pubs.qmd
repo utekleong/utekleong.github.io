@@ -13,12 +13,12 @@ In the spirit of open science, where available, each publication's corresponding
 
 ## Preprints
 
-**Leong, U.**, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *PsyArXiv*. <https://doi.org/10.31234/osf.io/cwd46>
-[\[OSF\]](https://osf.io/z5t8d/)
-
+**Leong, U.**, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *PsyArXiv*. <https://doi.org/10.31234/osf.io/cwd46> [\[OSF\]](https://osf.io/z5t8d/)
 
 ## Conference Presentations
 
 Presenting authors are underlined.
+
+<u>**Leong, U.**</u>, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis \[Poster Presentation\]. 33rd International Congress of Psychology, Prague, Czech Republic.
 
 <u>Henderson, S. L.</u>, Sugumar, L., **Leong, U.**, & Doshi, K. (2020). Evaluating mindfulness self-report questionnaires for scale development in a Singapore context: A focus group discussion \[Conference presentation\]. The Mind & Life 2020 Contemplative Research Conference, Singapore.
