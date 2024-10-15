@@ -7,6 +7,8 @@ My Google Scholar profile can be found [here](https://scholar.google.com.sg/cita
 
 ## Journal Articles
 
+Zainal, N.H., Liu, X., **Leong, U.**, Yan, X., & Chakraborty, B. (in press). Bridging innovation and equity: Advancing public health through just-in-time adaptive interventions (JITAIs). *Annual Review of Public Health*.
+
 **Leong, U.**, Epskamp, S., Isvoranu, A. M., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *Cognitive Therapy and Research*. <https://doi.org/10.1007/s10608-024-10524-7> [\[OSF\]](https://osf.io/z5t8d/)
 
 **Leong, U.**, & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. *JMIR MHealth and UHealth*, *11*, e44685. <https://doi.org/10.2196/44685> [\[OSF\]](https://osf.io/xdnr8/)
