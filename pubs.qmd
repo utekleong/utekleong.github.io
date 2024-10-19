@@ -13,7 +13,9 @@ Zainal, N.H., Liu, X., **Leong, U.**, Yan, X., & Chakraborty, B. (in press). Bri
 
 **Leong, U.**, & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. *JMIR MHealth and UHealth*, *11*, e44685. <https://doi.org/10.2196/44685> [\[OSF\]](https://osf.io/xdnr8/)
 
-<!-- ## Preprints -->
+## Preprints
+
+**Leong, U.**, Chan, E. H. L., Yau, W. T., Ng, W. Y., Chim, T. W., Yeung, W., Tam, K. Y. Y., & Feldman, G. (2024). On the moralization of vegetarianism and differences between health and moral vegetarians: Registered Report replicating and extending Rozin et al. (1997) \[Stage 1\]. *Open Science Framework*. <https://doi.org/10.17605/OSF.IO/5AZDG> [\[OSF\]](https://osf.io/5azdg)
 
 <!-- **Leong, U.**, Epskamp, S., Isvoranu, A., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *PsyArXiv*. <https://doi.org/10.31234/osf.io/cwd46> -->
 
