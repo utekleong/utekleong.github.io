@@ -17,6 +17,18 @@ website:
       # - href: cv.html
       #   text: Curriculum Vitae
       #   target: _blank
+    right: 
+    - icon: envelope-fill
+      href: mailto:utek@outlook.com
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: https://bsky.app/profile/utekleong.bsky.social
+      target: _blank
+    - icon: github
+      href: https://github.com/utekleong
+      target: _blank
+    
+  search: false
+
         
 format:
   html:
