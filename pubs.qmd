@@ -7,9 +7,9 @@ My Google Scholar profile can be found [here](https://scholar.google.com.sg/cita
 
 ## Journal Articles
 
-Zainal, N.H., Liu, X., **Leong, U.**, Yan, X., & Chakraborty, B. (2024). Bridging innovation and equity: Advancing public health through just-in-time adaptive interventions (JITAIs). *Annual Review of Public Health, 46*. <https://doi.org/10.1146/annurev-publhealth-071723-103909>
+Zainal, N. H., Liu, X., **Leong, U.**, Yan, X., & Chakraborty, B. (2024). Bridging Innovation and Equity: Advancing Public Health Through Just-in-Time Adaptive Interventions. *Annual Review of Public Health*, *46*. <https://doi.org/10.1146/annurev-publhealth-071723-103909>
 
-**Leong, U.**, Epskamp, S., Isvoranu, A. M., Angulo-Brunet, A., & Hong, R. Y. (2024). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *Cognitive Therapy and Research*, 1-11. <https://doi.org/10.1007/s10608-024-10524-7> [\[OSF\]](https://osf.io/z5t8d/)
+**Leong, U.**, Epskamp, S., Isvoranu, A.-M., Angulo-Brunet, A., & Hong, R. Y. (2025). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. *Cognitive Therapy and Research*, *49*(2), 291–301. <https://doi.org/10.1007/s10608-024-10524-7> [\[OSF\]](https://osf.io/z5t8d/)
 
 **Leong, U.**, & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. *JMIR MHealth and UHealth*, *11*, e44685. <https://doi.org/10.2196/44685> [\[OSF\]](https://osf.io/xdnr8/)
 
