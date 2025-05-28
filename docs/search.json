@@ -11,7 +11,7 @@
     "href": "pubs.html#journal-articles",
     "title": "Research",
     "section": "Journal Articles",
-    "text": "Journal Articles\nZainal, N. H., Liu, X., Leong, U., Yan, X., & Chakraborty, B. (2024). Bridging Innovation and Equity: Advancing Public Health Through Just-in-Time Adaptive Interventions. Annual Review of Public Health, 46. https://doi.org/10.1146/annurev-publhealth-071723-103909\nLeong, U., Epskamp, S., Isvoranu, A.-M., Angulo-Brunet, A., & Hong, R. Y. (2025). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. Cognitive Therapy and Research, 49(2), 291–301. https://doi.org/10.1007/s10608-024-10524-7 [OSF]\nLeong, U., & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. JMIR MHealth and UHealth, 11, e44685. https://doi.org/10.2196/44685 [OSF]"
+    "text": "Journal Articles\nZainal, N. H., Liu, X., Leong, U., Yan, X., & Chakraborty, B. (2025). Bridging Innovation and Equity: Advancing Public Health Through Just-in-Time Adaptive Interventions. Annual Review of Public Health, 46(1), 43–68. https://doi.org/10.1146/annurev-publhealth-071723-103909\nLeong, U., Epskamp, S., Isvoranu, A.-M., Angulo-Brunet, A., & Hong, R. Y. (2025). Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms: A Network Analysis. Cognitive Therapy and Research, 49(2), 291–301. https://doi.org/10.1007/s10608-024-10524-7 [OSF]\nLeong, U., & Chakraborty, B. (2023). Participant Engagement in Microrandomized Trials of mHealth Interventions: Scoping Review. JMIR MHealth and UHealth, 11, e44685. https://doi.org/10.2196/44685 [OSF]"
   },
   {
     "objectID": "pubs.html#conference-presentations",
@@ -25,14 +25,14 @@
     "href": "index.html",
     "title": "Leong Utek",
     "section": "",
-    "text": "I am a Psychology PhD candidate at the National University of Singapore, advised by Associate Professor Ryan Hong.\nBroadly, I am interested in the study of how individual differences influence physical and mental health outcomes. For my PhD research, I am currently investigating the relationships between a core transdiagnostic vulnerability and internalizing psychopathology using psychological network modelling. During my free time, I enjoy tending to my tropical houseplants, playing Magic the Gathering, listening to melodic hardcore, and taking walks with my beautiful wife.\nIf you would like to contact me, please drop me an email at utek@outlook.com."
+    "text": "Hello there! I am Utek, a Psychology PhD candidate at the National University of Singapore, advised by Associate Professor Ryan Hong.\nBroadly, I am interested in the study of how individual differences influence physical and mental health outcomes. For my PhD research, I am currently investigating the relationships between a core transdiagnostic vulnerability and internalizing psychopathology using psychological network modelling.\nDuring my free time, I enjoy tending to my tropical houseplants, playing Magic the Gathering, listening to melodic hardcore, and taking walks with my beautiful wife."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Leong Utek",
     "section": "Education",
-    "text": "Education\nPhD in Psychology | National University of Singapore\nAug 2021 - Present\nB.Soc.Sc in Psychology with Honours | Nanyang Technological University\nAug 2017 - May 2021"
+    "text": "Education\nPhD in Psychology | National University of Singapore\nAug 2021 - Present\nB.Soc.Sc in Psychology with Honours (Highest Distinction) | Nanyang Technological University\nAug 2017 - May 2021"
   },
   {
     "objectID": "index.html#research-experience",
@@ -158,7 +158,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Feeling like a real scientist\n\n\n\n\n\nMixed feelings during an exciting time\n\n\n\n\n\n\nNov 28, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Feeling like a real scientist\n\n\n\n\n\nMixed feelings during an exciting time\n\n\n\n\n\nNov 28, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/test.html",
@@ -179,6 +179,20 @@
     "href": "pubs.html#preprints",
     "title": "Research",
     "section": "Preprints",
-    "text": "Preprints\nLeong, U., Seah, F. E., Epskamp, S., Zainal, N., & Hong, R. Y. (2025). Investigating the Associations among Core Cognitive Vulnerability, Internalizing Symptoms, and Negative Situational Experiences: A Longitudinal Network Analysis. PsyArXiv. https://doi.org/10.31234/osf.io/2xey7_v1 [OSF]\nLeong, U., Chan, E. H. L., Yau, W. T., Ng, W. Y., Chim, T. W., Yeung, W., Tam, K. Y. Y., & Feldman, G. (2024). On the moralization of vegetarianism and differences between health and moral vegetarians: Registered Report replicating and extending Rozin et al. (1997) [Stage 1]. Open Science Framework. https://osf.io/rac6q [OSF]"
+    "text": "Preprints\nLeong, U., Seah, F. E., Epskamp, S., Zainal, N., & Hong, R. Y. (2025). Investigating the Associations among Core Cognitive Vulnerability, Internalizing Symptoms, and Negative Situational Experiences: A Longitudinal Network Analysis. PsyArXiv. https://doi.org/10.31234/osf.io/2xey7_v1 [OSF]"
+  },
+  {
+    "objectID": "pubs.html#registered-reports",
+    "href": "pubs.html#registered-reports",
+    "title": "Research",
+    "section": "Registered Reports",
+    "text": "Registered Reports\nLeong, U., Chan, E. H. L., Yau, W. T., Ng, W. Y., Chim, T. W., Yeung, W., Tam, K. Y. Y., & Feldman, G. (2024). On the moralization of vegetarianism and differences between health and moral vegetarians: Registered Report replicating and extending Rozin et al. (1997) [Stage 1]. Open Science Framework. https://osf.io/rac6q [Stage 1 in-principle acceptance] [OSF]"
+  },
+  {
+    "objectID": "index.html#research-topics-of-interest",
+    "href": "index.html#research-topics-of-interest",
+    "title": "Leong Utek",
+    "section": "Research Topics of Interest",
+    "text": "Research Topics of Interest\n\nTreatment adherence\nNetwork approach to mental disorders\nNetwork psychometrics\nDeveloping and evaluating mHealth interventions\nOpen science"
   }
 ]
