@@ -5,7 +5,7 @@ project:
 website:
   site-url: https://utekleong.github.io/
   navbar:
-    background: dark
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -33,7 +33,7 @@ website:
         
 format:
   html:
-    theme: cyborg
+    theme: yeti
     css: styles.css
     toc: true
 
