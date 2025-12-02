@@ -1,5 +1,5 @@
 ---
-title: "Leong Utek, Ph.D."
+title: "Leong Utek, PhD"
 about:
   template: solana
   image: ./images/aboutdp_v2.jpg
