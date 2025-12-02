@@ -7,7 +7,7 @@ My Google Scholar profile can be found [here](https://scholar.google.com.sg/cita
 
 ## Journal Articles
 
-Pasqualotto, A., **Leong, U.**, Kitada, R., (in press) Touching soft materials slows affective visual processing (2025). *Frontiers in Psychology*.
+Pasqualotto, A., **Leong, U.**, & Kitada, R. (2025). Touching soft materials slows affective visual processing. *Frontiers in Psychology*, *16*, 1644393. https://doi.org/10.3389/fpsyg.2025.1644393
 
 Zainal, N. H., Liu, X., **Leong, U.**, Yan, X., & Chakraborty, B. (2025). Bridging Innovation and Equity: Advancing Public Health Through Just-in-Time Adaptive Interventions. *Annual Review of Public Health*, *46*(1), 43–68. <https://doi.org/10.1146/annurev-publhealth-071723-103909>
 
