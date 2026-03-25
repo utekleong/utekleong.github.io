@@ -15,9 +15,9 @@ website:
         text: Research
       - href: blog.qmd
         text: Blog        
-      # - href: cv.html
-      #   text: Curriculum Vitae
-      #   target: _blank
+      - href: files/cv.pdf
+        text: Curriculum Vitae
+        target: _blank
     # right: 
     # - icon: envelope-fill
     #   href: mailto:utek@outlook.com
