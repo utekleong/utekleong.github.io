@@ -2,7 +2,7 @@
 title: "Utek, PhD"
 subtitle: "Research Fellow"
 about:
-  template: solana
+  template: trestles
   image: ./images/aboutdp_v2.jpg
   image-width: 25em
   image-shape: rounded
